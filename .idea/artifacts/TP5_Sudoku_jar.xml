@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TP5_Sudoku:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TP5_Sudoku_jar</output-path>
+    <root id="archive" name="TP5_Sudoku.jar">
+      <element id="module-output" name="TP5_Sudoku" />
+    </root>
+  </artifact>
+</component>
